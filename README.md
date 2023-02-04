@@ -2,7 +2,7 @@
 
 **`Code Dreamer (Engineer/Software Developer/☕ Lover)`** 
 
-I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital version world one step at a time. I am currently 'investing' my time pursuing a masters degree in systems engineering and working on my disertation.
+I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital version of the world one step at a time. I am currently 'investing' my time pursuing a masters degree in systems engineering and working on my disertation.
 
 **` Github suggested ideas to get me started `**
 - 🔭 I’m currently working on ... surviving
@@ -15,7 +15,7 @@ I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital
 
 <h3>👨‍💻 Gabi's Engineering Journey</h3>
 <p>
-    My first engineering moment was in 3rd grade when I installed Windows all by myself 😮 then it all went 🍌s ... Joke 😅 In 4th grade I started my own counter-strike 1.6 community with 4 servers, one classic and 3 with mods customised by me. I remember I was trying to learn php in order to build a forum for the counter-strike community but I ended up changing stuff on a template forum I found on the internet 🤔 After that, nothing worth mentioning happened so here's a big 🌫️ and a 🔪 to  cut it and get to the current day where I am a mostly backend developer with 3 years experience, specialised in .NET technologies. 
+    My first engineering moment was in 3rd grade when I installed Windows all by myself 😮 then everything went 🍌s ... Joke 😅 In 4th grade I started my own counter-strike 1.6 community with 4 servers, one classic and 3 with mods customised by me. I remember I was trying to learn php in order to build a forum for the counter-strike community but I ended up changing stuff on a template forum I found on the internet 🤔 After that, nothing worth mentioning happened so here's a big 🌫️ and a 🔪 to  cut it and get to the current day where I am a mostly backend developer with almost 3 years of experience, specialised in .NET technologies. 
 </p>
 
 <a href="http://gabrieldumitru.net"><img alt="My website" title="My website" src="https://custom-icon-badges.demolab.com/badge/-check%20out%20my%20website-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
