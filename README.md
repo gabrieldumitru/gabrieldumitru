@@ -82,7 +82,6 @@ I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital
 
 ## 📊 Stats and Github Analytics
 
-<br>
 <h3>🔥 Streak Stats</h3>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabrieldumitru&theme=gruvbox&border_radius=4.5) 
@@ -101,5 +100,3 @@ I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital
 ![Gabi's Activity Graph"](https://github-readme-activity-graph.cyclic.app/graph/?username=gabrieldumitru&theme=gruvbox)
 
 <b>Note for myself:</b> I definitely have to work harder to make this contribution graph look hotter 😭
-
-![Website]: http://gabrieldumitru.net
