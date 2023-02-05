@@ -91,7 +91,7 @@ I'm a solving-unexisting-problems-I-created-myself-engineer, building my digital
 
 ![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldumitru&show_icons=true&theme=gruvbox)
   
-<h3> 🧰 Top Languages</h3>
+<h3> 💬 Top Languages</h3>
 
 ![Gabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldumitru&langs_count=8&layout=compact&theme=gruvbox)
 
